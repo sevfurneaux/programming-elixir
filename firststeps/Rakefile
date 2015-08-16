@@ -1,0 +1,5 @@
+class Hello
+  def say
+    "World"
+  end
+end
